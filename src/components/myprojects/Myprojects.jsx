@@ -5,7 +5,7 @@ import IMG2 from '../../assets/img2.png'
 import IMG3 from '../../assets/img3.png'
 import IMG4 from '../../assets/img4.png'
 import IMG6 from '../../assets/img6.jpeg'
-import IMG7 from '../../assets/img7.jpeg'
+import IMG7 from '../../assets/img7.jpg'
 
 const Myprojects = () => {
   return (
