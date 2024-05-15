@@ -4,6 +4,7 @@ import IMG1 from '../../assets/img5.jpg'
 import IMG2 from '../../assets/img2.png'
 import IMG3 from '../../assets/img3.png'
 import IMG4 from '../../assets/img4.png'
+import IMG6 from '../../assets/img6.jpeg'
 
 const Myprojects = () => {
   return (
@@ -40,7 +41,7 @@ const Myprojects = () => {
             <div className="portfolio__item-image">
                 <img src={IMG4} alt="" />
             </div>
-            <h3>Design a Music player UI kit Design</h3>
+            <h3>Design a Music player UI kit Design using Adobe XD</h3>
             <small className='text-light'>Adobe XD</small>
             <div className="portfolio__item-cta">
               
@@ -56,6 +57,19 @@ const Myprojects = () => {
             <small className='text-light'>HTML | CSS | JS | Bootstrap | PHP | MySQL</small>
             <div className="portfolio__item-cta">
               <a href="https://github.com/nipunayasanga/COMPLAINT-REGISTRATION-AND-MANAGEMENT-SYSTEM-FOR-UNIVERSITY" target="_blank" rel='noreferrer' className='btn'>Github</a>
+                
+            </div>
+            
+        </article>
+
+        <article className='portfolio__item'>
+            <div className="portfolio__item-image">
+                <img src={IMG6} alt="" />
+            </div>
+            <h3>My Portfolio Website(This website)</h3>
+            <small className='text-light'>React | CSS | JS | Github </small>
+            <div className="portfolio__item-cta">
+              <a href="https://github.com/nipunayasanga/my-portfolio-site" target="_blank" rel='noreferrer' className='btn'>Github</a>
                 
             </div>
             
