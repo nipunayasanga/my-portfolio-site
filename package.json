@@ -1,13 +1,12 @@
 {
-  
-  "homepage": "https://github.com/nipunayasanga/my-portfolio-site.git",
 
+  "homepage": "https://nipunayasanga/my-portfolio-site.git",
+  
   "name": "my-portfolio-site",
   
   "version": "0.1.0",
   
   "private": false,
-
   
   "dependencies": {
   
@@ -57,7 +56,8 @@
   },
   
   "scripts": {
-
+  
+    
   "deploy": "gh-pages -d build",
   
     
