@@ -5,6 +5,7 @@ import IMG2 from '../../assets/img2.png'
 import IMG3 from '../../assets/img3.png'
 import IMG4 from '../../assets/img4.png'
 import IMG6 from '../../assets/img6.jpeg'
+import IMG7 from '../../assets/img7.jpeg'
 
 const Myprojects = () => {
   return (
@@ -54,7 +55,7 @@ const Myprojects = () => {
                 <img src={IMG3} alt="" />
             </div>
             <h3>Complaint Management System For University</h3>
-            <small className='text-light'>HTML | CSS | JS | Bootstrap | PHP | MySQL</small>
+            <small className='text-light'>HTML | JS | Bootstrap | PHP | MySQL</small>
             <div className="portfolio__item-cta">
               <a href="https://github.com/nipunayasanga/COMPLAINT-REGISTRATION-AND-MANAGEMENT-SYSTEM-FOR-UNIVERSITY" target="_blank" rel='noreferrer' className='btn'>Github</a>
                 
@@ -70,6 +71,20 @@ const Myprojects = () => {
             <small className='text-light'>React | CSS | JS | Github </small>
             <div className="portfolio__item-cta">
               <a href="https://github.com/nipunayasanga/my-portfolio-site" target="_blank" rel='noreferrer' className='btn'>Github</a>
+                
+            </div>
+            
+        </article>
+
+        <article className='portfolio__item'>
+            <div className="portfolio__item-image">
+                <img src={IMG7} alt="" />
+            </div>
+            <h3>My Freelancing Profile as a Designer</h3>
+            <small className='text-light'>Photoshop | Illustrator | XD </small>
+            <div className="portfolio__item-cta">
+              <a href="https://www.fiverr.com/nipuna_yasa?public_mode=true" target="_blank" rel='noreferrer' className='btn'>Fiverr</a>
+              <a href="https://www.upwork.com/freelancers/~01db16eea5935a5e9b?viewMode=1" target="_blank" rel='noreferrer' className='btn'>Upwork</a>
                 
             </div>
             
