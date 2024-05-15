@@ -83,8 +83,8 @@ const Myprojects = () => {
             <h3>My Freelancing Profile as a Designer</h3>
             <small className='text-light'>Photoshop | Illustrator | XD </small>
             <div className="portfolio__item-cta">
-              <a href="https://www.fiverr.com/nipuna_yasa?public_mode=true" target="_blank" rel='noreferrer' className='btn'>Fiverr</a>
-              <a href="https://www.upwork.com/freelancers/~01db16eea5935a5e9b?viewMode=1" target="_blank" rel='noreferrer' className='btn'>Upwork</a>
+              <a href="https://www.fiverr.com/nipuna_yasa?public_mode=true" target="_blank" rel='noreferrer' className='btn btn-outline-success'>Fiverr</a>
+              <a href="https://www.upwork.com/freelancers/~01db16eea5935a5e9b?viewMode=1" target="_blank" rel='noreferrer' className='btn btn-outline-success'>Upwork</a>
                 
             </div>
             
