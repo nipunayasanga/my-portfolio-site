@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my-portfolio-site.git/static/css/main.e03b7b11.css",
-    "main.js": "/my-portfolio-site.git/static/js/main.1a8132c8.js",
-    "static/media/Nipuna-Yasanga_CV.pdf": "/my-portfolio-site.git/static/media/Nipuna-Yasanga_CV.f8239d66f0c8995c29ae.pdf",
-    "static/media/img2.png": "/my-portfolio-site.git/static/media/img2.66bef312ba5423c06b5d.png",
-    "static/media/img4.png": "/my-portfolio-site.git/static/media/img4.40251128349d385e76d7.png",
-    "static/media/img3.png": "/my-portfolio-site.git/static/media/img3.e54fbb021886a49d4ba9.png",
-    "static/media/me-new.png": "/my-portfolio-site.git/static/media/me-new.a49225ea096166b05996.png",
-    "static/media/my-image2.jpg": "/my-portfolio-site.git/static/media/my-image2.43f5f78390ba738b284c.jpg",
-    "static/media/img5.jpg": "/my-portfolio-site.git/static/media/img5.00fadd03a0f9816e9fa5.jpg",
-    "index.html": "/my-portfolio-site.git/index.html",
-    "main.e03b7b11.css.map": "/my-portfolio-site.git/static/css/main.e03b7b11.css.map",
-    "main.1a8132c8.js.map": "/my-portfolio-site.git/static/js/main.1a8132c8.js.map"
+    "main.css": "/my-portfolio-site/static/css/main.e03b7b11.css",
+    "main.js": "/my-portfolio-site/static/js/main.45c6cbff.js",
+    "static/media/Nipuna-Yasanga_CV.pdf": "/my-portfolio-site/static/media/Nipuna-Yasanga_CV.f8239d66f0c8995c29ae.pdf",
+    "static/media/img2.png": "/my-portfolio-site/static/media/img2.66bef312ba5423c06b5d.png",
+    "static/media/img4.png": "/my-portfolio-site/static/media/img4.40251128349d385e76d7.png",
+    "static/media/img3.png": "/my-portfolio-site/static/media/img3.e54fbb021886a49d4ba9.png",
+    "static/media/me-new.png": "/my-portfolio-site/static/media/me-new.a49225ea096166b05996.png",
+    "static/media/my-image2.jpg": "/my-portfolio-site/static/media/my-image2.43f5f78390ba738b284c.jpg",
+    "static/media/img5.jpg": "/my-portfolio-site/static/media/img5.00fadd03a0f9816e9fa5.jpg",
+    "index.html": "/my-portfolio-site/index.html",
+    "main.e03b7b11.css.map": "/my-portfolio-site/static/css/main.e03b7b11.css.map",
+    "main.45c6cbff.js.map": "/my-portfolio-site/static/js/main.45c6cbff.js.map"
   },
   "entrypoints": [
     "static/css/main.e03b7b11.css",
-    "static/js/main.1a8132c8.js"
+    "static/js/main.45c6cbff.js"
   ]
 }
