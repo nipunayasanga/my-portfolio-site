@@ -6,6 +6,8 @@ import IMG3 from '../../assets/img3.png'
 import IMG4 from '../../assets/img4.png'
 import IMG6 from '../../assets/img6.jpeg'
 import IMG7 from '../../assets/img7.jpg'
+import IMG8 from '../../assets/img7.jpg'
+import IMG9 from '../../assets/img7.jpg'
 
 const Myprojects = () => {
   return (
@@ -20,7 +22,7 @@ const Myprojects = () => {
             <div className="portfolio__item-image">
                 <img src={IMG1} alt="" />
             </div>
-            <h3>Full-stack web application using the MERN </h3>
+            <h3>CURD web application using the MERN </h3>
             <small className='text-light'>MongoDB|ExpressJs| ReactJs| NodeJs</small>
             <div className="portfolio__item-cta">
               <a href="https://github.com/nipunayasanga/my-react-app.git" target="_blank" rel='noreferrer' className='btn'>Github</a>
@@ -80,7 +82,7 @@ const Myprojects = () => {
             <div className="portfolio__item-image">
                 <img src={IMG7} alt="" />
             </div>
-            <h3>My Freelancing Profile as a Designer</h3>
+            <h3>My Freelancing Profiles as a Designer</h3>
             <small className='text-light'>Photoshop | Illustrator | XD </small>
             <div className="portfolio__item-cta">
               <a href="https://www.fiverr.com/nipuna_yasa?public_mode=true" target="_blank" rel='noreferrer' className='btn btn-outline-success'>Fiverr</a>
@@ -89,6 +91,34 @@ const Myprojects = () => {
             </div>
             
         </article>
+
+        <article className='portfolio__item'>
+            <div className="portfolio__item-image">
+                <img src={IMG9} alt="" />
+            </div>
+            <h3>onewaylanka website | Commission Work for client</h3>
+            <small className='text-light'>Wordpress | Elementor| TutorLMS  </small>
+            <div className="portfolio__item-cta">
+              <a href="https://onewaylanka.com" target="_blank" rel='noreferrer' className='btn btn-primary'>Live Website</a>
+                
+            </div>
+            
+        </article>
+
+        <article className='portfolio__item'>
+            <div className="portfolio__item-image">
+                <img src={IMG8} alt="" />
+            </div>
+            <h3>Doctor Appointmnet System using MERN Stack</h3>
+            <small className='text-light'>React | Redux | MongoDB | NodeJS </small>
+            <div className="portfolio__item-cta">
+              <a href="https://github.com/nipunayasanga/Doctor-appointmnet-system" target="_blank" rel='noreferrer' className='btn'>Github</a>
+                
+            </div>
+            
+        </article>
+
+
       </div>
     </section>
   )
