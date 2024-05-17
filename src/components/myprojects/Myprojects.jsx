@@ -6,8 +6,8 @@ import IMG3 from '../../assets/img3.png'
 import IMG4 from '../../assets/img4.png'
 import IMG6 from '../../assets/img6.jpeg'
 import IMG7 from '../../assets/img7.jpg'
-import IMG8 from '../../assets/img7.jpg'
-import IMG9 from '../../assets/img7.jpg'
+import IMG8 from '../../assets/img8.jpg'
+import IMG9 from '../../assets/img9.jpg'
 
 const Myprojects = () => {
   return (
@@ -96,7 +96,7 @@ const Myprojects = () => {
             <div className="portfolio__item-image">
                 <img src={IMG9} alt="" />
             </div>
-            <h3>onewaylanka website | Commission Work for client</h3>
+            <h3>Commission Work for client</h3>
             <small className='text-light'>Wordpress | Elementor| TutorLMS  </small>
             <div className="portfolio__item-cta">
               <a href="https://onewaylanka.com" target="_blank" rel='noreferrer' className='btn btn-primary'>Live Website</a>
