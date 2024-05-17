@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e03b7b11.css",
-    "main.js": "/static/js/main.109d6fcf.js",
-    "static/media/Nipuna-Yasanga_CV.pdf": "/static/media/Nipuna-Yasanga_CV.f8239d66f0c8995c29ae.pdf",
+    "main.js": "/static/js/main.764b86c9.js",
+    "static/media/Nipuna-Yasanga_CV.pdf": "/static/media/Nipuna-Yasanga_CV.f0e4017c6780cf52816c.pdf",
     "static/media/img4.png": "/static/media/img4.40251128349d385e76d7.png",
     "static/media/img3.png": "/static/media/img3.e54fbb021886a49d4ba9.png",
     "static/media/img6.jpeg": "/static/media/img6.75ab4c8ae54d72c27b30.jpeg",
@@ -15,10 +15,10 @@
     "static/media/img5.jpg": "/static/media/img5.00fadd03a0f9816e9fa5.jpg",
     "index.html": "/index.html",
     "main.e03b7b11.css.map": "/static/css/main.e03b7b11.css.map",
-    "main.109d6fcf.js.map": "/static/js/main.109d6fcf.js.map"
+    "main.764b86c9.js.map": "/static/js/main.764b86c9.js.map"
   },
   "entrypoints": [
     "static/css/main.e03b7b11.css",
-    "static/js/main.109d6fcf.js"
+    "static/js/main.764b86c9.js"
   ]
 }
