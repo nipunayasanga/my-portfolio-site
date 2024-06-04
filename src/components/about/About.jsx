@@ -29,7 +29,7 @@ const About = () => {
                   <small>
                     <ul>
                       <li>Bsc.(Hons) Information and Communication Technology</li>
-                      <li>University of USJP.</li>
+                      <li>University of SJP.</li>
                      
                     </ul>
                   </small>
