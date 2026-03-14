@@ -18,29 +18,21 @@ const Myprojects = () => {
 
       <div className="container portfolio__container">
 
-        <article className='portfolio__item'>
+                <article className='portfolio__item'>
             <div className="portfolio__item-image">
-                <img src={IMG1} alt="" />
+                <img src={IMG7} alt="" />
             </div>
-            <h3>CURD web application using the MERN </h3>
-            <small className='text-light'>MongoDB|ExpressJs| ReactJs| NodeJs</small>
+            <h3>My Freelancing Profiles as a Designer</h3>
+            <small className='text-light'>Photoshop | Illustrator | XD </small>
             <div className="portfolio__item-cta">
-              <a href="https://github.com/nipunayasanga/my-react-app.git" target="_blank" rel='noreferrer' className='btn'>Github</a>
-            </div>
-              
-        </article>
-        <article className='portfolio__item'>
-            <div className="portfolio__item-image">
-                <img src={IMG2} alt="" />
-            </div>
-            <h3>Full-Functional Flutter Grocery Mobile App</h3>
-            <small className='text-light'>Flutter | Dart | JS | Android </small>
-            <div className="portfolio__item-cta">
-              <a href="https://github.com/nipunayasanga/Flutter-grocery-app.git" target="_blank" rel='noreferrer' className='btn'>Github</a>  
+              <a href="https://www.fiverr.com/nipuna_yasa?public_mode=true" target="_blank" rel='noreferrer' className='btn btn-outline-success'>Fiverr</a>
+              <a href="https://www.upwork.com/freelancers/~01db16eea5935a5e9b?viewMode=1" target="_blank" rel='noreferrer' className='btn btn-outline-success'>Upwork</a>
+                
             </div>
             
         </article>
-        <article className='portfolio__item'>
+
+                <article className='portfolio__item'>
             <div className="portfolio__item-image">
                 <img src={IMG4} alt="" />
             </div>
@@ -52,20 +44,20 @@ const Myprojects = () => {
             </div>
             
         </article>
-        <article className='portfolio__item'>
+
+                <article className='portfolio__item'>
             <div className="portfolio__item-image">
-                <img src={IMG3} alt="" />
+                <img src={IMG2} alt="" />
             </div>
-            <h3>Complaint Management System For University</h3>
-            <small className='text-light'>HTML | JS | Bootstrap | PHP | MySQL</small>
+            <h3>Full-Functional Flutter Grocery Mobile App</h3>
+            <small className='text-light'>Flutter | Dart | JS | Android </small>
             <div className="portfolio__item-cta">
-              <a href="https://github.com/nipunayasanga/COMPLAINT-REGISTRATION-AND-MANAGEMENT-SYSTEM-FOR-UNIVERSITY" target="_blank" rel='noreferrer' className='btn'>Github</a>
-                
+              <a href="https://github.com/nipunayasanga/Flutter-grocery-app.git" target="_blank" rel='noreferrer' className='btn'>Github</a>  
             </div>
             
         </article>
 
-        <article className='portfolio__item'>
+               <article className='portfolio__item'>
             <div className="portfolio__item-image">
                 <img src={IMG6} alt="" />
             </div>
@@ -80,17 +72,33 @@ const Myprojects = () => {
 
         <article className='portfolio__item'>
             <div className="portfolio__item-image">
-                <img src={IMG7} alt="" />
+                <img src={IMG1} alt="" />
             </div>
-            <h3>My Freelancing Profiles as a Designer</h3>
-            <small className='text-light'>Photoshop | Illustrator | XD </small>
+            <h3>CURD web application using the MERN </h3>
+            <small className='text-light'>MongoDB|ExpressJs| ReactJs| NodeJs</small>
             <div className="portfolio__item-cta">
-              <a href="https://www.fiverr.com/nipuna_yasa?public_mode=true" target="_blank" rel='noreferrer' className='btn btn-outline-success'>Fiverr</a>
-              <a href="https://www.upwork.com/freelancers/~01db16eea5935a5e9b?viewMode=1" target="_blank" rel='noreferrer' className='btn btn-outline-success'>Upwork</a>
+              <a href="https://github.com/nipunayasanga/my-react-app.git" target="_blank" rel='noreferrer' className='btn'>Github</a>
+            </div>
+              
+        </article>
+
+
+
+        <article className='portfolio__item'>
+            <div className="portfolio__item-image">
+                <img src={IMG3} alt="" />
+            </div>
+            <h3>Complaint Management System For University</h3>
+            <small className='text-light'>HTML | JS | Bootstrap | PHP | MySQL</small>
+            <div className="portfolio__item-cta">
+              <a href="https://github.com/nipunayasanga/COMPLAINT-REGISTRATION-AND-MANAGEMENT-SYSTEM-FOR-UNIVERSITY" target="_blank" rel='noreferrer' className='btn'>Github</a>
                 
             </div>
             
         </article>
+
+ 
+
 
         <article className='portfolio__item'>
             <div className="portfolio__item-image">
