@@ -35,13 +35,16 @@ const About = () => {
                   </small>
               </article>
 
-              <article className='about__card'>
-                  <BsBookmarkStar className='about__icon'/>
-                  <h5>Freelancer</h5>
-                  <small>Fiverrr<br /></small> 
-                  <small>Upwork</small>
-                  <small>Local Clients</small>
-                  
+            <article className='about__card'>
+                  <GiBriefcase   className='about__icon'/>
+                  <h5>Experience</h5>
+                  <small>
+                    <ul>
+                      <li>IT Lecturer (The Open University of Sri Lanka) </li>
+                      <li>IT Instructor (Uni.of Moratuwa)</li>
+                      <li>Freelancer</li>
+                    </ul>
+                  </small>
               </article>
 
               <article className='about__card'>
@@ -56,17 +59,7 @@ const About = () => {
                   </small>
               </article>
 
-              <article className='about__card'>
-                  <GiBriefcase   className='about__icon'/>
-                  <h5>Experience</h5>
-                  <small>
-                    <ul>
-                      <li>IT Lecturer (The Open University of Sri Lanka) </li>
-                      <li>IT Instructor (Uni.of Moratuwa)</li>
-                      <li>Freelancer</li>
-                    </ul>
-                  </small>
-              </article>
+
 
               
 
