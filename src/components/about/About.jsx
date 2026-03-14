@@ -64,16 +64,10 @@ const About = () => {
 
             </div>
             <p>
-             <strong>Hi, I'm Nipuna</strong><br />
-             I am a <strong>passionate</strong> and <span style={{ color: '#ff6b6b' }}>detail-oriented</span> 
-             individual with a strong foundation in computer science and a deep interest in designing 
-             <span style={{ color: '#ff6b6b' }}>intuitive</span> and user-centered digital experiences. 
-             I enjoy transforming complex ideas into simple, elegant, and functional interfaces through 
-             <span style={{ color: '#ff6b6b' }}>creativity</span>, research, and analytical thinking. 
-             With a strong work ethic and problem-solving mindset, I focus on creating solutions that 
-             improve <strong>usability</strong>, accessibility, and overall user satisfaction. 
-             I am also committed to continuous learning and staying updated with emerging technologies and design 
-             trends in the evolving digital landscape.
+             <strong style={{ color: '#ff6b6b' }}>Nipuna</strong>, <strong style={{ color: '#ff6b6b' }}>user-centered digital 
+              experiences</strong>, <strong style={{ color: '#ff6b6b' }}>detail-oriented</strong>, <strong style={{ color: '#ff6b6b' }}>strong work ethic</strong>,
+               <strong style={{ color: '#ff6b6b' }}>usability</strong>, <strong style={{ color: '#ff6b6b' }}>accessibility</strong>, 
+               and <strong style={{ color: '#ff6b6b' }}>overall user satisfaction</strong>.
             </p>
 
           </div>
