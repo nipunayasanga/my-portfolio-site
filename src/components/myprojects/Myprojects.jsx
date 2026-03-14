@@ -37,8 +37,8 @@ const Myprojects = () => {
             <div className="portfolio__item-image">
                 <img src={IMG4} alt="" />
             </div>
-            <h3>Design a Music player UI kit Design using Adobe XD</h3>
-            <small className='text-light'>Adobe XD</small>
+            <h3>Music player UI kit Design</h3>
+            <small className='text-light'>Abode XD | Figma | Android</small>
             <div className="portfolio__item-cta">
               
               <a href="https://www.behance.net/gallery/135912801/Music-player-UI-kit-design" target="_blank" rel='noreferrer' className='btn btn-primary'>behance</a>  
@@ -62,7 +62,7 @@ const Myprojects = () => {
             <div className="portfolio__item-image">
                 <img src={IMG2} alt="" />
             </div>
-            <h3>Full-Functional Flutter Grocery Mobile App</h3>
+            <h3>Functional Flutter Grocery Mobile App</h3>
             <small className='text-light'>Flutter | Dart | JS | Android </small>
             <div className="portfolio__item-cta">
               <a href="https://github.com/nipunayasanga/Flutter-grocery-app.git" target="_blank" rel='noreferrer' className='btn'>Github</a>  
@@ -117,7 +117,7 @@ const Myprojects = () => {
             <div className="portfolio__item-image">
                 <img src={IMG9} alt="" />
             </div>
-            <h3>Commission Work for client</h3>
+            <h3>Commission Work for client - OneWay Lanka Website</h3>
             <small className='text-light'>Wordpress | Elementor| TutorLMS  </small>
             <div className="portfolio__item-cta">
               <a href="https://onewaylanka.com" target="_blank" rel='noreferrer' className='btn btn-primary'>Live Website</a>
