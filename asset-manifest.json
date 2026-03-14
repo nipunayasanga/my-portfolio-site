@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.dba91969.css",
-    "main.js": "/static/js/main.07d63d2a.js",
+    "main.js": "/static/js/main.f1ede61b.js",
     "static/media/Nipuna-Yasanga_CV.pdf": "/static/media/Nipuna-Yasanga_CV.df9fe5969fa145f9d9e5.pdf",
     "static/media/img4.png": "/static/media/img4.40251128349d385e76d7.png",
+    "static/media/img5.png": "/static/media/img5.975c63efbafb8be64e28.png",
     "static/media/img3.png": "/static/media/img3.e54fbb021886a49d4ba9.png",
     "static/media/img6.jpeg": "/static/media/img6.75ab4c8ae54d72c27b30.jpeg",
     "static/media/img9.jpg": "/static/media/img9.5faaf50ab58156ccfc41.jpg",
@@ -18,10 +19,10 @@
     "static/media/img5.jpg": "/static/media/img5.00fadd03a0f9816e9fa5.jpg",
     "index.html": "/index.html",
     "main.dba91969.css.map": "/static/css/main.dba91969.css.map",
-    "main.07d63d2a.js.map": "/static/js/main.07d63d2a.js.map"
+    "main.f1ede61b.js.map": "/static/js/main.f1ede61b.js.map"
   },
   "entrypoints": [
     "static/css/main.dba91969.css",
-    "static/js/main.07d63d2a.js"
+    "static/js/main.f1ede61b.js"
   ]
 }
