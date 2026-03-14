@@ -64,14 +64,16 @@ const About = () => {
 
             </div>
             <p>
-             <b> Hi, Im Nipuna<br></br></b>
-            I am a dedicated and driven individual, fueled by a deep passion for innovation and backed by a robust 
-            foundation in computer science. My enthusiasm, self-motivation, sense of responsibility, 
-            and strong work ethic enable me to excel under pressure and meet stringent deadlines effectively.I thrive on challenges 
-            and enjoy solving complex problems using my analytical skills and logical thinking. 
-            My enthusiasm for learning drives me to stay updated with the latest technologies 
-            and trends in the ever-evolving tech industry.
-                    
+             <strong>Hi, I'm Nipuna</strong><br />
+             I am a <strong>passionate</strong> and <span style={{ color: '#ff6b6b' }}>detail-oriented</span> 
+             individual with a strong foundation in computer science and a deep interest in designing 
+             <span style={{ color: '#ff6b6b' }}>intuitive</span> and user-centered digital experiences. 
+             I enjoy transforming complex ideas into simple, elegant, and functional interfaces through 
+             <span style={{ color: '#ff6b6b' }}>creativity</span>, research, and analytical thinking. 
+             With a strong work ethic and problem-solving mindset, I focus on creating solutions that 
+             improve <strong>usability</strong>, accessibility, and overall user satisfaction. 
+             I am also committed to continuous learning and staying updated with emerging technologies and design 
+             trends in the evolving digital landscape.
             </p>
 
           </div>
