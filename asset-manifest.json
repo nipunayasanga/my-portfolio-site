@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dba91969.css",
-    "main.js": "/static/js/main.a156ef0c.js",
+    "main.js": "/static/js/main.b067351a.js",
     "static/media/Nipuna-Yasanga_CV.pdf": "/static/media/Nipuna-Yasanga_CV.df9fe5969fa145f9d9e5.pdf",
     "static/media/img4.png": "/static/media/img4.40251128349d385e76d7.png",
     "static/media/img3.png": "/static/media/img3.e54fbb021886a49d4ba9.png",
@@ -10,18 +10,18 @@
     "static/media/me-new.png": "/static/media/me-new.a578f0f3f8ba4d2993a3.png",
     "static/media/img2.png": "/static/media/img2.b325ccceacc29f73e3bc.png",
     "static/media/img8.jpg": "/static/media/img8.a395601daab53fb1d078.jpg",
+    "static/media/my-image2.jpg": "/static/media/my-image2.5758abbcad6e753a8eb0.jpg",
     "static/media/img7.jpg": "/static/media/img7.24ac94bce711780ffd28.jpg",
     "static/media/blog_img_03.jpeg": "/static/media/blog_img_03.6cefb829d87d4554b963.jpeg",
     "static/media/blog_img_02.jpeg": "/static/media/blog_img_02.3f249a0cbbf59eb190ee.jpeg",
     "static/media/blog_img_01.jpeg": "/static/media/blog_img_01.dd1879422be58c338f96.jpeg",
-    "static/media/my-image2.jpg": "/static/media/my-image2.43f5f78390ba738b284c.jpg",
     "static/media/img5.jpg": "/static/media/img5.00fadd03a0f9816e9fa5.jpg",
     "index.html": "/index.html",
     "main.dba91969.css.map": "/static/css/main.dba91969.css.map",
-    "main.a156ef0c.js.map": "/static/js/main.a156ef0c.js.map"
+    "main.b067351a.js.map": "/static/js/main.b067351a.js.map"
   },
   "entrypoints": [
     "static/css/main.dba91969.css",
-    "static/js/main.a156ef0c.js"
+    "static/js/main.b067351a.js"
   ]
 }
