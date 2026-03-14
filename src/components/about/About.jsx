@@ -57,7 +57,7 @@ const About = () => {
               </article>
 
               <article className='about__card'>
-                  <GiBriefcase  className='about__icon'/>
+                  <GiBriefcase   className='about__icon'/>
                   <h5>Experience</h5>
                   <small>
                     <ul>
