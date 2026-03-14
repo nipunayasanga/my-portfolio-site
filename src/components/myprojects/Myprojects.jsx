@@ -4,6 +4,7 @@ import IMG1 from '../../assets/img5.jpg'
 import IMG2 from '../../assets/img2.png'
 import IMG3 from '../../assets/img3.png'
 import IMG4 from '../../assets/img4.png'
+import IMG5 from '../../assets/img5.png'
 import IMG6 from '../../assets/img6.jpeg'
 import IMG7 from '../../assets/img7.jpg'
 import IMG8 from '../../assets/img8.jpg'
@@ -41,6 +42,18 @@ const Myprojects = () => {
             <div className="portfolio__item-cta">
               
               <a href="https://www.behance.net/gallery/135912801/Music-player-UI-kit-design" target="_blank" rel='noreferrer' className='btn btn-primary'>behance</a>  
+            </div>
+            
+        </article>
+
+                   <article className='portfolio__item'>
+            <div className="portfolio__item-image">
+                <img src={IMG5} alt="" />
+            </div>
+            <h3>Coffer App User Interface Design</h3>
+            <small className='text-light'>Abode XD | Figma | Android </small>
+            <div className="portfolio__item-cta">
+              <a href="https://www.behance.net/gallery/135921295/Coffer-App-User-Interface-Design" target="_blank" rel='noreferrer' className='btn'>behance</a>  
             </div>
             
         </article>
